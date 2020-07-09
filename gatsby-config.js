@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Emilia - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Bhavisha - Graphic Designer Portfolio`,
   },
   plugins: [
     {
@@ -23,8 +23,8 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Emilia - @lekoarts/gatsby-theme-emilia`,
-        short_name: `Emilia`,
-        description: `Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI.`,
+        short_name: `Bhavisha`,
+        description: `Graphic and Web Designer portfolio - Logo, Banner, Packaging, Web Design, Company Branding, Business Card`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#3182ce`,
