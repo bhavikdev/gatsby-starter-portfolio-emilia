@@ -10,7 +10,16 @@ module.exports = {
     {
       resolve: `@lekoarts/gatsby-theme-emilia`,
       // See the theme's README for all available options
-      options: {},
+      options: {
+          name: `Bhavik`,
+          socialMedia: [
+            {
+              title: `Instagram`,
+              href: `https://www.instagram.com/bhavisha.patel`
+            }
+          ]
+        },
+      
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
